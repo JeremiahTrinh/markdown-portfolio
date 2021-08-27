@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* vidya
+* sleeping
+  * food
+  * air
+* jujutsu
